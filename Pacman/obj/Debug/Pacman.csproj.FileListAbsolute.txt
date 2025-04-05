@@ -1,0 +1,11 @@
+C:\Users\charl\Projects\cs\Pacman\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\charl\Projects\cs\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\charl\Projects\cs\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\charl\Projects\cs\Pacman\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
+C:\Users\charl\Projects\cs\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+C:\Users\charl\Projects\cs\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+C:\Users\charl\Projects\cs\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\charl\Projects\cs\Pacman\Pacman\obj\Debug\Pacman.exe
+C:\Users\charl\Projects\cs\Pacman\Pacman\obj\Debug\Pacman.pdb
+C:\Users\charl\Projects\cs\Pacman\Pacman\bin\Debug\animations.gif
+C:\Users\charl\Projects\cs\Pacman\Pacman\bin\Debug\ghost.png
